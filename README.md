@@ -1,38 +1,38 @@
 <h1 align="center">
     <img alt="Application Screenshots" src="./screenshots/web.png" />
     <br />
-    <h1>Proffy - API - NodeJS</h1>
+    <h1 align="center"> Proffy - API - NodeJS</h1>
 </h1>
 
-<h4 align="center">
+<!-- <h4 align="center">
   :partly_sunny:
-</h4>
+</h4> -->
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/andersonsts/nasa-insight-react">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/andersonsts/nlw2-server">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/andersonsts/nasa-insight-react">
+  <!-- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/andersonsts/nasa-insight-react"> -->
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andersonsts/nasa-insight-react">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andersonsts/nlw2-server">
 
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/andersonsts/nasa-insight-react">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/andersonsts/nlw2-server">
 
-  <img alt="Repository issues" src="https://img.shields.io/github/issues/andersonsts/nasa-insight-react">
+  <!-- <img alt="Repository issues" src="https://img.shields.io/github/issues/andersonsts/nasa-insight-react"> -->
 </p>
 
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bookmark_tabs-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<!-- <p align="center">
+  <a href="#rocket-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!-- <a href="#bookmark_tabs-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-executar">Executar</a>
-</p>
+</p> -->
 
-![App Screenshot](https://res.cloudinary.com/andersonsts/image/upload/v1584553766/home_knmthv.png)
+<!-- ![App Screenshot](https://res.cloudinary.com/andersonsts/image/upload/v1584553766/home_knmthv.png)
 
-![App Screenshot2](https://res.cloudinary.com/andersonsts/image/upload/v1584553766/info_p8kwls.png)
+![App Screenshot2](https://res.cloudinary.com/andersonsts/image/upload/v1584553766/info_p8kwls.png) -->
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
-Este projeto utiliza as seguintes tecnologias:
+This project was developed with the following technologies:
 
 -  [ReactJS](https://reactjs.org/)
 -  [React Router Dom](https://reacttraining.com/react-router/web/guides/quick-start)
@@ -40,26 +40,25 @@ Este projeto utiliza as seguintes tecnologias:
 -  [styled-components](https://www.styled-components.com/)
 -  [React-Icons](https://react-icons.netlify.com/)
 -  [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner)
--  [VS Code][vc] com [EditorConfig][vceditconfig], [ESLint][vceslint] e [Prettier](https://github.com/prettier/prettier-eslint)
 
-## :bookmark_tabs: Requisitos
-Essa aplicação consome os dados fornecidos pela [API Nasa insight](https://github.com/andersonsts/api-nasa-insight). Você deve rodar essa API antes de executar a aplicação
+<!-- ## :bookmark_tabs: Requisitos
+Essa aplicação consome os dados fornecidos pela [API Nasa insight](https://github.com/andersonsts/api-nasa-insight). Você deve rodar essa API antes de executar a aplicação -->
 
-## :information_source: Executar
+## :information_source: How to use
 
-Para clonar e executar essa aplicação você precisa do [Git](https://git-scm.com), [Node.js v10.16][nodejs] ou superior + [Yarn v1.13][yarn] ou superior instalado em sua máquina. Em seu terminal de comando, execute:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v12][nodejs] or higher + Yarn v1.13 or higher installed on your computer. From your command line:
 
 ```bash
-# Clone este repositório
-$ git clone https://github.com/andersonsts/nasa-insight-react
+# Clone this repository
+$ git clone https://github.com/andersonsts/nlw2-server
 
-# Entre no repositorio
-$ cd nasa-insight-react
+# Go into the repository
+$ cd nlw-server
 
-# Instale as dependências
+# Install dependencies
 $ yarn install
 
-# Execute a aplicação
+# Execute application
 $ yarn start
 ```
 
