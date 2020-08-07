@@ -34,12 +34,9 @@
 
 This project was developed with the following technologies:
 
--  [ReactJS](https://reactjs.org/)
--  [React Router Dom](https://reacttraining.com/react-router/web/guides/quick-start)
--  [Axios](https://github.com/axios/axios)
--  [styled-components](https://www.styled-components.com/)
--  [React-Icons](https://react-icons.netlify.com/)
--  [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner)
+-  [NodeJS](https://nodejs.org/en/)
+-  [Express](https://expressjs.com/pt-br/)
+-  [TypeScript](https://www.typescriptlang.org/)
 
 <!-- ## :bookmark_tabs: Requisitos
 Essa aplicação consome os dados fornecidos pela [API Nasa insight](https://github.com/andersonsts/api-nasa-insight). Você deve rodar essa API antes de executar a aplicação -->
